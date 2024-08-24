@@ -1,4 +1,9 @@
-
+Name: Lakshmipathi Balaji M
+Company:CODTECH IT SOLUTIONS
+ID:CT08DS6245
+Domain:Machine Learning
+Duration:July to August 2024
+Mentor:Muzammil Ahmed
 
 Project Overview
 
